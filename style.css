@@ -19,15 +19,22 @@ ul {
     margin-top: 60px;
 }
 
+li {
+    margin-bottom: 30px;
+}
+
 a {
-    color: #000000;
-    background-color: rgb(255, 54, 54);
-    border: 20px solid rgb(255, 54, 54);
+    color: white;
+    background-color: #020003;
+    border: 20px solid #020003;
     border-radius: 40px;
     text-decoration: none;
+    text-decoration: bold;
 }
 
 nav {
     display: flex;
     justify-content: center;
+    background-color: rgb(255, 54, 54);
+    border-radius: 60px;
 }
