@@ -1,0 +1,33 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px;
+    font-size: 30px;
+    background-image: url(/imagenes/evil-eyes.gif);
+    background-size: 800px;
+    background-position: top;
+    background-size: 1200px;
+    background-color: #020003;
+    background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+a {
+    color: #000000;
+    background-color: rgb(255, 54, 54);
+    border: 20px solid rgb(255, 54, 54);
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
